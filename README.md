@@ -74,4 +74,4 @@ Não há credenciais, tokens ou configurações secretas.
 
 ## Uso de Inteligência Artificial
 
-Usamos o assistente Claude (Anthropic) para gerar a estrutura inicial do projeto, das classes de Retrofit/modelos JSON e dos layouts. O código foi revisado, testado e ajustado (ver `EXPLICACAO.md`).
+Usamos o assistente Claude (Anthropic) para gerar a estrutura inicial do projeto, das classes de Retrofit/modelos JSON e dos layouts. O código foi revisado, testado e ajustado.

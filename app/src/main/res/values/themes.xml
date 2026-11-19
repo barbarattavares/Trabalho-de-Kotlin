@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.BibliotecaMobile" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <color name="ic_launcher_background">#2E5E4E</color>
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Biblioteca Mobile</string>
+
+    <!-- Busca -->
+    <string name="subtitulo_busca">Encontre livros para seus estudos e leituras obrigatórias</string>
+    <string name="hint_termo">Título ou autor</string>
+    <string name="buscar">Buscar livros</string>
+    <string name="sugestoes">Sugestões de leitura</string>
+    <string name="erro_termo_vazio">Digite um título ou o nome de um autor</string>
+    <string name="erro_termo_curto">Digite pelo menos %1$d caracteres</string>
+
+    <!-- Resultados -->
+    <string name="titulo_resultados">“%1$s”</string>
+    <string name="carregando_livros">Buscando livros…</string>
+    <string name="nenhum_resultado">Nenhum livro encontrado para “%1$s”.\nTente outro título ou autor.</string>
+    <string name="ano_desconhecido">Ano desconhecido</string>
+    <string name="capa_do_livro">Capa do livro</string>
+    <plurals name="resumo_resultados">
+        <item quantity="one">%1$d livro encontrado</item>
+        <item quantity="other">%1$d livros encontrados</item>
+    </plurals>
+    <plurals name="info_ano_edicoes">
+        <item quantity="one">%1$s · %2$d edição</item>
+        <item quantity="other">%1$s · %2$d edições</item>
+    </plurals>
+
+    <!-- Detalhes -->
+    <string name="titulo_detalhes">Detalhes do livro</string>
+    <string name="publicado_em">Primeira publicação: %1$d</string>
+    <string name="sobre_a_obra">Sobre a obra</string>
+    <string name="assuntos">Assuntos</string>
+    <string name="carregando_detalhes">Carregando detalhes…</string>
+    <string name="sem_descricao">Este livro ainda não possui descrição no catálogo da Open Library.</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="abrir_site">Ver no site</string>
+    <string name="texto_compartilhar">Recomendo a leitura de “%1$s”, de %2$s: %3$s</string>
+    <string name="erro_sem_navegador">Nenhum navegador encontrado no aparelho</string>
+    <string name="erro_livro_invalido">Não foi possível abrir este livro</string>
+
+    <!-- Comum -->
+    <string name="tentar_novamente">Tentar novamente</string>
+</resources>
